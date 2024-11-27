@@ -1,4 +1,4 @@
-package Dp;
+package Dp.LeetCode;
 
 public class Climbling_Stairs {
     public static int method(int n) {
